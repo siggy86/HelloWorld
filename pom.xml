@@ -7,7 +7,7 @@
     <groupId>hello</groupId>
     <artifactId>HelloWorld</artifactId>
     <packaging>war</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-RELEASE</version>
 
     <build>
         <finalName>HelloWorld</finalName>
