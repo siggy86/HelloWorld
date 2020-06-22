@@ -12,6 +12,11 @@
     <build>
         <finalName>HelloWorld</finalName>
     </build>
-
+<distributionManagement>
+   <repository>
+      <id>hello</id>
+        <url>http://localhost:8081/#admin/repository/repositories:sample-nexus</url>
+   </repository>
+</distributionManagement>
     
 </project>
